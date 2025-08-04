@@ -23,7 +23,7 @@ header h1 {
 div.preparation {
   background-color: #fff5faff;
   padding: 2.5rem;
-  font-family: "Outfit";
+  font-family: "Outfit", sans-serif;
 }
 
 .preparation h2 {
@@ -60,7 +60,7 @@ ul li::marker, ol li::marker {
   font-size: 2.8rem;
 }
 
-.h2, h2 {
+.h2 {
   color: #854632ff;
   margin-bottom: 2.6rem;
 }
